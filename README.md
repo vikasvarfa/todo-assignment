@@ -1,5 +1,8 @@
 # To-Do List Application
 
+## Video Preview
+https://github.com/user-attachments/assets/1ff10957-d3d2-4b1c-a88b-5c257f1d36f7
+
 This is a full-stack To-Do list application built with **MongoDB**, **Express.js**, **React.js**, **Node.js**, and **Bootstrap**. The application allows users to create, edit, delete, and manage tasks effectively.
 
 ## Table of Contents
@@ -39,7 +42,7 @@ This is a full-stack To-Do list application built with **MongoDB**, **Express.js
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/todo-app.git
+    git clone https://github.com/vikasvarfa/todo-assignment.git
     cd todo-app/backend
     ```
 
@@ -56,7 +59,7 @@ This is a full-stack To-Do list application built with **MongoDB**, **Express.js
 
 4. Start the backend server:
     ```bash
-    npm start
+    nodemon server.js
     ```
 
 ### Frontend Setup
